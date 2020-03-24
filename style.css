@@ -1,0 +1,39 @@
+body{
+    background: #e5e5e5;
+    color: #25282b;
+
+    text-align: center;
+}
+
+
+button{
+    color: #ff5e84;
+    border: none;
+    font-weight: bold;
+    background: none;
+}
+
+
+
+.fat{
+    background: #ff5e84;
+    color: white;
+}
+
+footer a{
+    color:  #25282b;
+    text-decoration: none;
+
+}
+
+.hide{
+    display: none;
+}
+
+#footer a{
+    color: red;
+}
+
+#footer a:visited{
+    color: rgb(63, 15, 15);
+}
